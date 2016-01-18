@@ -1,0 +1,32 @@
+.chapters{
+    margin:0 auto;
+    width: 100%;
+    text-align: center;
+}
+
+.chapter{
+    margin:0 auto;
+    width: 100px;
+    height: 300px;
+    display: inline-block;
+    text-align: center;
+}
+
+.chapter_1{
+    background: blue;
+}
+.chapter_2{
+    background: red;
+}
+.chapter_3{
+    background: green;
+}
+.chapter_4{
+    background: yellow;
+}
+.chapter_5{
+    background: purple;
+}
+.chapter_6{
+    background: pink;
+}
