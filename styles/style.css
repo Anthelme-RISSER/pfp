@@ -1,5 +1,7 @@
 .chapters{
-    margin:0 auto;
+    position: relative;
+    margin-left: auto;
+    margin-top: auto;
     width: 100%;
     text-align: center;
 }
